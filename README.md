@@ -1,0 +1,2 @@
+- Made for CptS121 at WSU
+- CSV File "FitbitData.csv" and the structs are obtained from Prof. Andrew O'Fallon
